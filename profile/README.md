@@ -1,4 +1,4 @@
-## CQCQCQ 👋
+## CQCQCQ
 
 **参与开发** - 我们的项目遵循WTFPL (Do What The Fuck You Want To Public License) 开源协议，贡献代码可以获得奖励，但所贡献的代码也将被WTFPL开源协议污染。
 
